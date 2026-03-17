@@ -1,4 +1,4 @@
-<img align="center" src="https://firebasestorage.googleapis.com/v0/b/pictures-3e80f.appspot.com/o/GitHub%2FGithub%20Homepage%202.gif?alt=media&token=43b75700-3ff9-4805-af40-f24f0a7a9ab6"/>
+<img align="center" src="[https://res.cloudinary.com/dpb7crcko/image/upload/v1773776737/Github_Homepage_nttrlk.gif"/>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rahmaaaan.rahmaaaan" />
 
